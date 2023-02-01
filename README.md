@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there, I'm Ivo 👋
+####I'm located for now in 🇬🇧, but I'm originally from 🇧🇬
+
+
+
 
 <!--
 **eb0x94/eb0x94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
