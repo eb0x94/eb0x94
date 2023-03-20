@@ -2,10 +2,10 @@
   <img src="https://media.tenor.com/Dhrbmr_t3tEAAAAC/forrest-gump-hello.gif" alt="Hello" width="200" height="200" />
 </p>
 
-# Hi there, I'm Ivo 👋
-#### I'm located for now in 🇬🇧, but I'm originally from 🇧🇬
-
-
+<div align="center">
+<h2>Hi there, I'm Ivo 👋</h2>
+<h3>I'm located for now in 🇬🇧, but I'm originally from 🇧🇬</h3>
+</div>
 
 
 <!--
