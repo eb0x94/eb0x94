@@ -10,7 +10,7 @@ Software Developer, IT Engineer
 
 * 🌍  I'm based in Bulgaria
 * ✉️  You can contact me at [christoff.ivo@gmail.com](mailto:christoff.ivo@gmail.com)
-* 🚀  I'm currently working on [Creating CRM Systems at Bizlink Solutions](http://(s):https://bizlink-solutions.eu)
+* 🚀  I'm currently working on [Creating CRM Systems at Bizlink Solutions](http://bizlink-solutions.eu)
 
 ### Skills
 
